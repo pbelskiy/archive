@@ -1,0 +1,5 @@
+obj/*
+bin/usage
+bin/out.bin
+*.gdl
+*.png
